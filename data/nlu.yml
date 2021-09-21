@@ -24,6 +24,7 @@ nlu:
       - what are the branches in engineering department?
       - branch in enginnering?
       - enginnering have how many branches?
+      - engg have how many branches?
 
   - intent: branches_head
     examples: |
